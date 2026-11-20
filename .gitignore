@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# SwiftPM & Xcode build artifacts
+.build/
+.swiftpm/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.moved-aside
+.build_dmg.log
+
+# Release bundles (keep dist/Orfeus.dmg tracked for direct download)
+dist/*
+!dist/Orfeus.dmg
+
+# Secrets / signing credentials (never commit)
+*.p12
+*.p8
+*.cer
+*.mobileprovision
+*.provisionprofile
+.env*
+*notarization-credentials*

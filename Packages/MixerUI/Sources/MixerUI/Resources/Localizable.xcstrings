@@ -1,0 +1,106 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "No audio apps are open": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Açık ses uygulaması yok"
+          }
+        }
+      }
+    },
+    "Quit Orfeus": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orfeus’tan Çık"
+          }
+        }
+      }
+    },
+    "Closes the mixer and restores normal app volume.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Orfeus’u kapatır ve uygulamaların sesini normal düzeyine döndürür."
+          }
+        }
+      }
+    },
+    "Adjusts this app’s volume. Zero is muted.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu uygulamanın ses düzeyini ayarlar. Sıfırda ses kapalıdır."
+          }
+        }
+      }
+    },
+    "Audio access is unavailable. Check System Audio Recording in Privacy & Security, then move the slider again.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sese erişilemiyor. Gizlilik ve Güvenlik bölümünde Sistem Sesi Kaydı iznini kontrol edin, ardından sürgüyü yeniden hareket ettirin."
+          }
+        }
+      }
+    },
+    "Open System Settings": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sistem Ayarlarını Aç"
+          }
+        }
+      }
+    },
+    "Opens audio recording permissions.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ses kaydı izinlerini açar."
+          }
+        }
+      }
+    },
+    "This output device can’t be adjusted separately. The app is playing at its normal volume.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu çıkış aygıtında uygulama sesi ayrı ayarlanamıyor. Uygulama normal ses düzeyinde çalıyor."
+          }
+        }
+      }
+    },
+    "Dismiss": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kapat"
+          }
+        }
+      }
+    },
+    "Closes this notice.": {
+      "localizations": {
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu bildirimi kapatır."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.1"
+}
